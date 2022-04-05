@@ -1,6 +1,6 @@
 ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Akshaj!
 
-### Stacks im learning rn
+### Im learning,
 <table>
     <tr>
       <td>
