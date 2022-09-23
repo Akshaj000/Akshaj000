@@ -11,6 +11,3 @@
     </td>
   </tr>
 </table>
-
-
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">, I'm Akshaj!
