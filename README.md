@@ -7,7 +7,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=akshaj000&theme=dark&hide_border=true" />
     </td>
       <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj000&layout=compact&theme=dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj000&layout=compact&theme=dark&hide_border=true&langs_count=15" />
     </td>
   </tr>
 </table>
