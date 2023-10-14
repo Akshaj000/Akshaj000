@@ -18,22 +18,8 @@ I am a third-year B.Tech student with a passion for learning and exploring solut
   </tr>
 </table>
 
-## Im familar with
-
-- **Programming Languages:** Python, Java, C++, JavaScript, TypeScript
-- **Web Development:** Django, HTML, CSS, JavaScript, React, Next.js, Flask
-- **Databases:** SQLite, PostgreSQL, MySQL
-- **Cloud Technologies:** AWS (EC2, RDS, S3, EKS), GCP
-- **DevOps:** Git CI/CD, Docker, Ansible
-- **Generative AI:** Langchain, Vector database, LLMs
-
-## Contact
+Feel free to reach out!
 
 - 📧 Email: akshajsr000@gmail.com
-- 📱 Phone: +91 8921996073
 - 💼 Portfolio: [akshaj.in](https://akshaj.in)
-- 🐙 GitHub: [akshaj000](https://github.com/akshaj000)
 - 🔗 LinkedIn: [akshaj000](https://www.linkedin.com/in/akshaj000)
-- 🐦 Twitter: [akshaj000](https://twitter.com/akshaj000)
-
-Feel free to reach out! Happy coding! 🚀
