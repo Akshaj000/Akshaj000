@@ -1,4 +1,4 @@
-# Hi there, I'm Akshaj S.R! 👋
+# Hi there, I'm Akshaj! 👋
 
 I am a third-year B.Tech student with a passion for learning and exploring solutions. Currently, I work part-time as a software developer at Traboda CyberLabs, contributing to cybersecurity-related products. I enjoy traveling and connecting with nature, which fuels my creativity.
 
