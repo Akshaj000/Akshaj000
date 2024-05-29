@@ -1,6 +1,6 @@
 # Hi there, I'm Akshaj! 👋
 
-I am a third-year B.Tech student with a passion for learning and exploring solutions. Currently, I'm learning about LLMs and figuring out how to use it in real-life applications. I enjoy traveling and connecting with nature, which fuels my creativity.
+
 
 ## GitHub Stats
 
